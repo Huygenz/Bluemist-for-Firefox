@@ -1,59 +1,46 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "2.3",
   "name": "Bluemist for Firefox",
-  "theme": {
-    "images": {
-      "additional_backgrounds": [
-        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
-      ]
-    },
-    "properties": {
-      "additional_backgrounds_alignment": [
-        "top"
-      ],
-      "additional_backgrounds_tiling": [
-        "repeat"
-      ]
-    },
+  "theme": {   
     "colors": {
-      "toolbar": "rgb(57, 69, 81)",
-      "toolbar_text": "rgb(255, 255, 255)",
-      "frame": "rgb(57, 69, 81)",
-      "tab_background_text": "rgb(255, 255, 255)",
-      "toolbar_field": "rgb(57, 69, 81)",
-      "toolbar_field_text": "rgb(255, 255, 255)",
-      "tab_line": "rgb(7, 54, 253)",
-      "popup": "rgb(57, 69, 81)",
-      "popup_text": "rgb(255, 255, 255)",
-      "button_background_hover": "rgb(44, 54, 63)",
-      "frame_inactive": "rgb(57, 69, 81)",
-      "icons_attention": "rgb(255, 0, 232)",
-      "icons": "rgb(255, 255, 255)",
-      "ntp_background": "rgb(57, 69, 81)",
-      "ntp_text": "rgb(255, 255, 255)",
-      "popup_border": "rgb(0, 255, 55)",
-      "popup_highlight_text": "rgb(255, 255, 255)",
-      "popup_highlight": "rgb(7, 151, 253)",
-      "sidebar_border": "rgb(57, 69, 81)",
-      "sidebar_highlight_text": "rgb(7, 151, 253)",
-      "sidebar_highlight": "rgb(69, 86, 101)",
-      "sidebar_text": "rgb(255, 255, 255)",
-      "sidebar": "rgb(57, 69, 81)",
-      "tab_background_separator": "rgb(52, 255, 0)",
-      "tab_loading": "rgb(7, 54, 253)",
-      "tab_selected": "rgb(69, 86, 101)",
-      "tab_text": "rgb(255, 255, 255)",
-      "toolbar_bottom_separator": "rgb(0, 255, 55)",
-      "toolbar_field_border_focus": "rgb(4, 255, 0)",
-      "toolbar_field_border": "rgb(7, 54, 253)",
-      "toolbar_field_focus": "rgb(7, 151, 253)",
-      "toolbar_field_highlight_text": "rgb(255, 255, 255)",
-      "toolbar_field_highlight": "rgb(7, 151, 253)",
-      "toolbar_field_separator": "rgb(255, 0, 232)",
-      "toolbar_field_text_focus": "rgb(255, 255, 255)",
-      "toolbar_top_separator": "rgb(255, 0, 232)",
-      "toolbar_vertical_separator": "rgb(255, 0, 232)"
+        "bookmark_text": "rgb(204, 204, 204)",
+        "button_background_hover": "rgb(44, 54, 63)",
+        "button_background_active": "rgb(7, 151, 253)",
+        "frame": "rgb(57, 69, 81)",
+        "frame_inactive": "rgb(57, 69, 81)",
+        "icons_attention": "rgb(255, 0, 232)",
+        "icons": "rgb(255, 255, 255)",
+        "ntp_background": "rgb(57, 69, 81)",
+        "ntp_text": "rgb(255, 255, 255)",
+        "popup_border": "rgb(57, 69, 81)",
+        "popup_highlight_text": "rgb(255, 255, 255)",
+        "popup_highlight": "rgb(7, 151, 253)",
+        "popup": "rgb(69, 86, 101)",
+        "popup_text": "rgb(255, 255, 255)",
+        "sidebar_border": "rgb(57, 69, 81)",
+        "sidebar_highlight_text": "rgb(255, 255, 255)",
+        "sidebar_highlight": "rgb(7, 151, 253)",
+        "sidebar_text": "rgb(255, 255, 255)",
+        "sidebar": "rgb(57, 69, 81)",
+        "tab_loading": "rgb(7, 151, 253)",
+        "tab_selected": "rgb(69, 86, 101)",
+        "tab_text": "rgb(255, 255, 255)",
+        "tab_background_text": "rgb(255, 255, 255)",
+        "tab_line": "rgb(69, 86, 101)",
+        "toolbar_bottom_separator": "rgb(57, 69, 81)",
+        "toolbar_field_border_focus": "rgb(7, 151, 253)",
+        "toolbar_field_border": "rgb(57, 69, 81)",
+        "toolbar_field_focus": "rgb(57, 69, 81)",
+        "toolbar_field_highlight_text": "rgb(255, 255, 255)",
+        "toolbar_field_highlight": "rgb(7, 151, 253)",
+        "toolbar_field_text_focus": "rgb(255, 255, 255)",
+        "toolbar_top_separator": "rgb(57, 69, 81)",
+        "toolbar_vertical_separator": "rgb(57, 69, 81)",
+        "toolbar": "rgb(57, 69, 81)",
+        "toolbar_text": "rgb(255, 255, 255)",
+        "toolbar_field": "rgb(57, 69, 81)",
+        "toolbar_field_text": "rgb(204, 204, 204)"          
     }
   }
 }
